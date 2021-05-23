@@ -5,6 +5,7 @@
 * Utilização de registradores
 * Baixa memória
 * Baseado em incrementação com delay
+* Botões de Controle
 
 #
 ## # Update 1.1
