@@ -13,10 +13,10 @@
 ### Foi adicionado um sistema de interrupções externas, conhecidas por `INT0` e `INT1`, elas foram configuradas neste projeto como "botões já pré definidos" (PD2/2 e PD3/3) e realizam funções no contador ao serem pressionados.
 <br>
 
-### A primeira interrupção (`INT0`) funciona como um "play/pause". Ao ser pressionada ela realiza o início da contagem e, ao pressionar novamente, ela pausa o ciclo e continua printando o que já foi contado.
+### A primeira interrupção `INT0` funciona como um "play/pause". Ao ser pressionada ela realiza o início da contagem e, ao pressionar novamente, ela pausa o ciclo e continua printando o que já foi contado.
 <br>
 
-### A segunda interrupção (`INT1`) funciona como um "reset". Ao ser pressionada ela reinicia todas as variáveis do código e, devido a isso o contador volta ao seu estado inicial.
+### A segunda interrupção `INT1` funciona como um "reset". Ao ser pressionada ela reinicia todas as variáveis do código e, devido a isso o contador volta ao seu estado inicial.
 #
 
 ### Para o sucesso desta atualização, ocorreu uma mudança massiva no código implementando novas funções e lógicas de programação, como: <p>
