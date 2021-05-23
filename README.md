@@ -9,9 +9,8 @@
 
 #
 
-## Update 1.1
+## # Update 1.1
 
-#
 ### Foi adicionado um sistema de interrupções externas, conhecidas por `INT0` e `INT1`, elas foram configuradas neste projeto como "botões já pré definidos" (PD2/2 e PD3/3) e realizam funções no contador ao serem pressionados.
 <br>
 
