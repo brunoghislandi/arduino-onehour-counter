@@ -195,7 +195,7 @@ void setup()
   DDRD  = 0xF3;
   DDRB  = 0xFF;
   EICRA = 0xFF; // set INT1 and INT0 with falling (press the button).
-  EIMSK = 0x03; // ebable interrupts with INT0 and INT1.
+  EIMSK = 0x03; // enable interrupts with INT0 and INT1.
   sei();
 }
 
